@@ -1,0 +1,14 @@
+0 6425000 xx^xx-sil+p=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:2_7/K:1+2-7
+6425000 6725000 xx^sil-p+a=s/A:0+1+5/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_2|1_7/G:2_1%1_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
+6725000 7524999 sil^p-a+s=U/A:0+1+5/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_2|1_7/G:2_1%1_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
+7524999 8125000 p^a-s+U=t/A:1+2+4/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_2|1_7/G:2_1%1_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
+8125000 8425000 a^s-U+t=a/A:1+2+4/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_2|1_7/G:2_1%1_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
+8425000 8725000 s^U-t+a=d/A:2+3+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_2|1_7/G:2_1%1_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
+8725000 9225000 U^t-a+d=e/A:2+3+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_2|1_7/G:2_1%1_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
+9225000 9725000 t^a-d+e=m/A:3+4+2/B:02-xx_xx/C:13_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_2|1_7/G:2_1%1_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
+9725000 10225000 a^d-e+m=o/A:3+4+2/B:02-xx_xx/C:13_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_2|1_7/G:2_1%1_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
+10225000 10825000 d^e-m+o=i/A:4+5+1/B:13-xx_xx/C:24_xx+xx/D:01+7_2/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_2|1_7/G:2_1%1_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
+10825000 11325000 e^m-o+i=i/A:4+5+1/B:13-xx_xx/C:24_xx+xx/D:01+7_2/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_2|1_7/G:2_1%1_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
+11325000 12625000 m^o-i+i=sil/A:0+1+2/B:24-xx_xx/C:01_7+2/D:xx+xx_xx/E:5_1!0_xx-1/F:2_1#1_xx@2_1|6_2/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
+12625000 13225000 o^i-i+sil=xx/A:1+2+1/B:24-xx_xx/C:01_7+2/D:xx+xx_xx/E:5_1!0_xx-1/F:2_1#1_xx@2_1|6_2/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
+13225000 21525000 i^i-sil+xx=xx/A:xx+xx+xx/B:01-7_2/C:xx_xx+xx/D:xx+xx_xx/E:2_1!1_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:2_7/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:1+2-7

@@ -1,0 +1,14 @@
+0 5425000 xx^xx-sil+i=m/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:2_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_2/K:2+2-6
+5425000 6625000 xx^sil-i+m=a/A:0+1+2/B:xx-xx_xx/C:02_xx+xx/D:05+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:4_1%0_xx_0/H:xx_xx/I:1-2@1+2&1-2|1+6/J:1_4/K:2+2-6
+6625000 7425000 sil^i-m+a=pau/A:1+2+1/B:xx-xx_xx/C:02_xx+xx/D:05+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:4_1%0_xx_0/H:xx_xx/I:1-2@1+2&1-2|1+6/J:1_4/K:2+2-6
+7425000 9025000 i^m-a+pau=g/A:1+2+1/B:xx-xx_xx/C:02_xx+xx/D:05+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:4_1%0_xx_0/H:xx_xx/I:1-2@1+2&1-2|1+6/J:1_4/K:2+2-6
+9025000 10125000 m^a-pau+g=o/A:xx+xx+xx/B:02-xx_xx/C:xx_xx+xx/D:05+xx_xx/E:2_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_1%0_xx_xx/H:1_2/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_4/K:2+2-6
+10125000 10925000 a^pau-g+o=j/A:0+1+4/B:02-xx_xx/C:05_xx+xx/D:15+xx_xx/E:2_1!0_xx-0/F:4_1#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:1_2/I:1-4@2+1&2-1|3+4/J:xx_xx/K:2+2-6
+10925000 11825000 pau^g-o+j=i/A:0+1+4/B:02-xx_xx/C:05_xx+xx/D:15+xx_xx/E:2_1!0_xx-0/F:4_1#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:1_2/I:1-4@2+1&2-1|3+4/J:xx_xx/K:2+2-6
+11825000 12725000 g^o-j+i=d/A:1+2+3/B:05-xx_xx/C:15_xx+xx/D:10+7_2/E:2_1!0_xx-0/F:4_1#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:1_2/I:1-4@2+1&2-1|3+4/J:xx_xx/K:2+2-6
+12725000 13225000 o^j-i+d=e/A:1+2+3/B:05-xx_xx/C:15_xx+xx/D:10+7_2/E:2_1!0_xx-0/F:4_1#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:1_2/I:1-4@2+1&2-1|3+4/J:xx_xx/K:2+2-6
+13225000 13525000 j^i-d+e=s/A:2+3+2/B:15-xx_xx/C:10_7+2/D:xx+xx_xx/E:2_1!0_xx-0/F:4_1#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:1_2/I:1-4@2+1&2-1|3+4/J:xx_xx/K:2+2-6
+13525000 14325000 i^d-e+s=U/A:2+3+2/B:15-xx_xx/C:10_7+2/D:xx+xx_xx/E:2_1!0_xx-0/F:4_1#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:1_2/I:1-4@2+1&2-1|3+4/J:xx_xx/K:2+2-6
+14325000 16525000 d^e-s+U=sil/A:3+4+1/B:15-xx_xx/C:10_7+2/D:xx+xx_xx/E:2_1!0_xx-0/F:4_1#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:1_2/I:1-4@2+1&2-1|3+4/J:xx_xx/K:2+2-6
+16525000 16825000 e^s-U+sil=xx/A:3+4+1/B:15-xx_xx/C:10_7+2/D:xx+xx_xx/E:2_1!0_xx-0/F:4_1#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:1_2/I:1-4@2+1&2-1|3+4/J:xx_xx/K:2+2-6
+16825000 24025000 s^U-sil+xx=xx/A:xx+xx+xx/B:10-7_2/C:xx_xx+xx/D:xx+xx_xx/E:4_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:1_4/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:2+2-6

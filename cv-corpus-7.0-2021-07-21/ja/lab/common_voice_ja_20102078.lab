@@ -1,0 +1,15 @@
+0 10725000 xx^xx-sil+e=e/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_4%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:2_8/K:1+2-8
+10725000 11625000 xx^sil-e+e=g/A:-3+1+4/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:4_4#0_xx@1_2|1_8/G:4_2%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+11625000 13025000 sil^e-e+g=a/A:-2+2+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:4_4#0_xx@1_2|1_8/G:4_2%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+13025000 13425000 e^e-g+a=o/A:-1+3+2/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:4_4#0_xx@1_2|1_8/G:4_2%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+13425000 13725000 e^g-a+o=m/A:-1+3+2/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:4_4#0_xx@1_2|1_8/G:4_2%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+13725000 15025000 g^a-o+m=i/A:0+4+1/B:02-xx_xx/C:13_xx+xx/D:20+3_1/E:xx_xx!xx_xx-xx/F:4_4#0_xx@1_2|1_8/G:4_2%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+15025000 16025000 a^o-m+i=m/A:-1+1+4/B:13-xx_xx/C:20_3+1/D:10+7_1/E:4_4!0_xx-1/F:4_2#0_xx@2_1|5_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+16025000 16825000 o^m-i+m=a/A:-1+1+4/B:13-xx_xx/C:20_3+1/D:10+7_1/E:4_4!0_xx-1/F:4_2#0_xx@2_1|5_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+16825000 17625000 m^i-m+a=sh/A:0+2+3/B:20-3_1/C:10_7+1/D:10+7_2/E:4_4!0_xx-1/F:4_2#0_xx@2_1|5_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+17625000 18225000 i^m-a+sh=I/A:0+2+3/B:20-3_1/C:10_7+1/D:10+7_2/E:4_4!0_xx-1/F:4_2#0_xx@2_1|5_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+18225000 19525000 m^a-sh+I=t/A:1+3+2/B:20-3_1/C:10_7+1/D:10+7_2/E:4_4!0_xx-1/F:4_2#0_xx@2_1|5_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+19525000 19825000 a^sh-I+t=a/A:1+3+2/B:20-3_1/C:10_7+1/D:10+7_2/E:4_4!0_xx-1/F:4_2#0_xx@2_1|5_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+19825000 20225000 sh^I-t+a=sil/A:2+4+1/B:10-7_1/C:10_7+2/D:xx+xx_xx/E:4_4!0_xx-1/F:4_2#0_xx@2_1|5_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+20225000 22225000 I^t-a+sil=xx/A:2+4+1/B:10-7_1/C:10_7+2/D:xx+xx_xx/E:4_4!0_xx-1/F:4_2#0_xx@2_1|5_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+22225000 29425000 t^a-sil+xx=xx/A:xx+xx+xx/B:10-7_2/C:xx_xx+xx/D:xx+xx_xx/E:4_2!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:2_8/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:1+2-8

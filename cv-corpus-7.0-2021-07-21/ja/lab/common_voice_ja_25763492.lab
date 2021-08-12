@@ -1,0 +1,13 @@
+0 8925000 xx^xx-sil+n=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:04+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:2_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:2_6/K:1+2-6
+8925000 9625000 xx^sil-n+a=n/A:0+1+2/B:xx-xx_xx/C:04_xx+xx/D:20+3_1/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_2|1_6/G:4_3%1_xx_1/H:xx_xx/I:2-6@1+1&1-2|1+6/J:xx_xx/K:1+2-6
+9625000 10225000 sil^n-a+n=i/A:0+1+2/B:xx-xx_xx/C:04_xx+xx/D:20+3_1/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_2|1_6/G:4_3%1_xx_1/H:xx_xx/I:2-6@1+1&1-2|1+6/J:xx_xx/K:1+2-6
+10225000 10925000 n^a-n+i=t/A:1+2+1/B:xx-xx_xx/C:04_xx+xx/D:20+3_1/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_2|1_6/G:4_3%1_xx_1/H:xx_xx/I:2-6@1+1&1-2|1+6/J:xx_xx/K:1+2-6
+10925000 11525000 a^n-i+t=a/A:1+2+1/B:xx-xx_xx/C:04_xx+xx/D:20+3_1/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_2|1_6/G:4_3%1_xx_1/H:xx_xx/I:2-6@1+1&1-2|1+6/J:xx_xx/K:1+2-6
+11525000 11924999 n^i-t+a=b/A:-2+1+4/B:04-xx_xx/C:20_3+1/D:10+7_2/E:2_1!0_xx-1/F:4_3#1_xx@2_1|3_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-6@1+1&1-2|1+6/J:xx_xx/K:1+2-6
+11924999 12425000 i^t-a+b=e/A:-2+1+4/B:04-xx_xx/C:20_3+1/D:10+7_2/E:2_1!0_xx-1/F:4_3#1_xx@2_1|3_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-6@1+1&1-2|1+6/J:xx_xx/K:1+2-6
+12425000 12725000 t^a-b+e=t/A:-1+2+3/B:04-xx_xx/C:20_3+1/D:10+7_2/E:2_1!0_xx-1/F:4_3#1_xx@2_1|3_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-6@1+1&1-2|1+6/J:xx_xx/K:1+2-6
+12725000 13725000 a^b-e+t=a/A:-1+2+3/B:04-xx_xx/C:20_3+1/D:10+7_2/E:2_1!0_xx-1/F:4_3#1_xx@2_1|3_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-6@1+1&1-2|1+6/J:xx_xx/K:1+2-6
+13725000 14125000 b^e-t+a=i/A:0+3+2/B:20-3_1/C:10_7+2/D:xx+xx_xx/E:2_1!0_xx-1/F:4_3#1_xx@2_1|3_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-6@1+1&1-2|1+6/J:xx_xx/K:1+2-6
+14125000 15425000 e^t-a+i=sil/A:0+3+2/B:20-3_1/C:10_7+2/D:xx+xx_xx/E:2_1!0_xx-1/F:4_3#1_xx@2_1|3_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-6@1+1&1-2|1+6/J:xx_xx/K:1+2-6
+15425000 16825000 t^a-i+sil=xx/A:1+4+1/B:20-3_1/C:10_7+2/D:xx+xx_xx/E:2_1!0_xx-1/F:4_3#1_xx@2_1|3_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-6@1+1&1-2|1+6/J:xx_xx/K:1+2-6
+16825000 24025000 a^i-sil+xx=xx/A:xx+xx+xx/B:10-7_2/C:xx_xx+xx/D:xx+xx_xx/E:4_3!1_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:2_6/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:1+2-6

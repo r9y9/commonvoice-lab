@@ -1,0 +1,14 @@
+0 6725000 xx^xx-sil+o=s/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:16+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:8_4%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_8/K:1+1-8
+6725000 7625000 xx^sil-o+s=a/A:-3+1+8/B:xx-xx_xx/C:16_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+7625000 8725000 sil^o-s+a=r/A:-2+2+7/B:16-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+8725000 9325000 o^s-a+r=a/A:-2+2+7/B:16-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+9325000 10025000 s^a-r+a=a/A:-1+3+6/B:16-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+10025000 11125000 a^r-a+a=r/A:-1+3+6/B:16-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+11125000 11525000 r^a-a+r=a/A:0+4+5/B:02-xx_xx/C:02_xx+xx/D:14+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+11525000 11924999 a^a-r+a=i/A:1+5+4/B:02-xx_xx/C:02_xx+xx/D:14+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+11924999 12625000 a^r-a+i=cl/A:1+5+4/B:02-xx_xx/C:02_xx+xx/D:14+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+12625000 12925000 r^a-i+cl=t/A:2+6+3/B:02-xx_xx/C:02_xx+xx/D:14+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+12925000 13925000 a^i-cl+t=e/A:3+7+2/B:02-xx_xx/C:14_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+13925000 14325000 i^cl-t+e=sil/A:4+8+1/B:02-xx_xx/C:14_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+14325000 16125000 cl^t-e+sil=xx/A:4+8+1/B:02-xx_xx/C:14_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+16125000 24025000 t^e-sil+xx=xx/A:xx+xx+xx/B:14-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_4!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:1_8/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:1+1-8

@@ -1,0 +1,13 @@
+0 5825000 xx^xx-sil+j=u/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:7_4%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_7/K:1+1-7
+5825000 6525000 xx^sil-j+u=n/A:-3+1+7/B:xx-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+6525000 7025000 sil^j-u+n=i/A:-3+1+7/B:xx-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+7025000 7425000 j^u-n+i=a/A:-2+2+6/B:xx-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+7425000 8225000 u^n-i+a=g/A:-2+2+6/B:xx-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+8225000 8825000 n^i-a+g=u/A:-1+3+5/B:xx-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+8825000 9825000 i^a-g+u=N/A:0+4+4/B:02-xx_xx/C:02_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+9825000 10725000 a^g-u+N=d/A:0+4+4/B:02-xx_xx/C:02_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+10725000 11025000 g^u-N+d=a/A:1+5+3/B:02-xx_xx/C:02_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+11025000 12024999 u^N-d+a=N/A:2+6+2/B:02-xx_xx/C:02_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+12024999 13025000 N^d-a+N=sil/A:2+6+2/B:02-xx_xx/C:02_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+13025000 13825000 d^a-N+sil=xx/A:3+7+1/B:02-xx_xx/C:02_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+13825000 20825000 a^N-sil+xx=xx/A:xx+xx+xx/B:02-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_4!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:1_7/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:1+1-7
