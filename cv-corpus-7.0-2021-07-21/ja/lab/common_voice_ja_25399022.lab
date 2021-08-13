@@ -1,5 +1,5 @@
-0 6825000 xx^xx-sil+i=ch/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:05+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:2_2%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_2/K:4+4-7
-6825000 7925000 xx^sil-i+ch=i/A:-1+1+2/B:xx-xx_xx/C:05_xx+xx/D:05+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:1_1%0_xx_0/H:xx_xx/I:1-2@1+4&1-4|1+7/J:1_1/K:4+4-7
+0 6725000 xx^xx-sil+i=ch/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:05+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:2_2%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_2/K:4+4-7
+6725000 7925000 xx^sil-i+ch=i/A:-1+1+2/B:xx-xx_xx/C:05_xx+xx/D:05+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:1_1%0_xx_0/H:xx_xx/I:1-2@1+4&1-4|1+7/J:1_1/K:4+4-7
 7925000 9625000 sil^i-ch+i=pau/A:0+2+1/B:xx-xx_xx/C:05_xx+xx/D:05+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:1_1%0_xx_0/H:xx_xx/I:1-2@1+4&1-4|1+7/J:1_1/K:4+4-7
 9625000 9925000 i^ch-i+pau=n/A:0+2+1/B:xx-xx_xx/C:05_xx+xx/D:05+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:1_1%0_xx_0/H:xx_xx/I:1-2@1+4&1-4|1+7/J:1_1/K:4+4-7
 9925000 10525000 ch^i-pau+n=i/A:xx+xx+xx/B:05-xx_xx/C:xx_xx+xx/D:05+xx_xx/E:2_2!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:1_1%0_xx_xx/H:1_2/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_1/K:4+4-7

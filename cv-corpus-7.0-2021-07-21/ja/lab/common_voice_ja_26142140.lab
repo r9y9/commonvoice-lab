@@ -7,8 +7,8 @@
 9325000 9825000 i^r-i+cl=t/A:-9+3+13/B:xx-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:15_12#0_xx@1_8|1_42/G:3_2%0_xx_1/H:xx_xx/I:8-42@1+1&1-8|1+42/J:xx_xx/K:1+8-42
 9825000 10525000 r^i-cl+t=o/A:-8+4+12/B:xx-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:15_12#0_xx@1_8|1_42/G:3_2%0_xx_1/H:xx_xx/I:8-42@1+1&1-8|1+42/J:xx_xx/K:1+8-42
 10525000 11225000 i^cl-t+o=u/A:-7+5+11/B:xx-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:15_12#0_xx@1_8|1_42/G:3_2%0_xx_1/H:xx_xx/I:8-42@1+1&1-8|1+42/J:xx_xx/K:1+8-42
-11225000 11525000 cl^t-o+u=cl/A:-7+5+11/B:xx-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:15_12#0_xx@1_8|1_42/G:3_2%0_xx_1/H:xx_xx/I:8-42@1+1&1-8|1+42/J:xx_xx/K:1+8-42
-11525000 12125000 t^o-u+cl=d/A:-6+6+10/B:02-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:15_12#0_xx@1_8|1_42/G:3_2%0_xx_1/H:xx_xx/I:8-42@1+1&1-8|1+42/J:xx_xx/K:1+8-42
+11225000 11625000 cl^t-o+u=cl/A:-7+5+11/B:xx-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:15_12#0_xx@1_8|1_42/G:3_2%0_xx_1/H:xx_xx/I:8-42@1+1&1-8|1+42/J:xx_xx/K:1+8-42
+11625000 12125000 t^o-u+cl=d/A:-6+6+10/B:02-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:15_12#0_xx@1_8|1_42/G:3_2%0_xx_1/H:xx_xx/I:8-42@1+1&1-8|1+42/J:xx_xx/K:1+8-42
 12125000 12425000 o^u-cl+d=o/A:-5+7+9/B:02-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:15_12#0_xx@1_8|1_42/G:3_2%0_xx_1/H:xx_xx/I:8-42@1+1&1-8|1+42/J:xx_xx/K:1+8-42
 12425000 13225000 u^cl-d+o=h/A:-4+8+8/B:02-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:15_12#0_xx@1_8|1_42/G:3_2%0_xx_1/H:xx_xx/I:8-42@1+1&1-8|1+42/J:xx_xx/K:1+8-42
 13225000 13525000 cl^d-o+h=a/A:-4+8+8/B:02-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:15_12#0_xx@1_8|1_42/G:3_2%0_xx_1/H:xx_xx/I:8-42@1+1&1-8|1+42/J:xx_xx/K:1+8-42

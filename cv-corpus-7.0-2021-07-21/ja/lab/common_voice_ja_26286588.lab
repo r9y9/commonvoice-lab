@@ -1,7 +1,7 @@
 0 6425000 xx^xx-sil+k=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:3_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_19/K:2+9-42
 6425000 7125000 xx^sil-k+a=k/A:0+1+3/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_4|1_19/G:3_1%0_xx_1/H:xx_xx/I:4-19@1+2&1-9|1+42/J:5_23/K:2+9-42
-7125000 7725000 sil^k-a+k=o/A:0+1+3/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_4|1_19/G:3_1%0_xx_1/H:xx_xx/I:4-19@1+2&1-9|1+42/J:5_23/K:2+9-42
-7725000 8525000 k^a-k+o=w/A:1+2+2/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_4|1_19/G:3_1%0_xx_1/H:xx_xx/I:4-19@1+2&1-9|1+42/J:5_23/K:2+9-42
+7125000 7825000 sil^k-a+k=o/A:0+1+3/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_4|1_19/G:3_1%0_xx_1/H:xx_xx/I:4-19@1+2&1-9|1+42/J:5_23/K:2+9-42
+7825000 8525000 k^a-k+o=w/A:1+2+2/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_4|1_19/G:3_1%0_xx_1/H:xx_xx/I:4-19@1+2&1-9|1+42/J:5_23/K:2+9-42
 8525000 9025000 a^k-o+w=a/A:1+2+2/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_4|1_19/G:3_1%0_xx_1/H:xx_xx/I:4-19@1+2&1-9|1+42/J:5_23/K:2+9-42
 9025000 9625000 k^o-w+a=s/A:2+3+1/B:02-xx_xx/C:24_xx+xx/D:06+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_4|1_19/G:3_1%0_xx_1/H:xx_xx/I:4-19@1+2&1-9|1+42/J:5_23/K:2+9-42
 9625000 10025000 o^w-a+s=u/A:2+3+1/B:02-xx_xx/C:24_xx+xx/D:06+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_4|1_19/G:3_1%0_xx_1/H:xx_xx/I:4-19@1+2&1-9|1+42/J:5_23/K:2+9-42

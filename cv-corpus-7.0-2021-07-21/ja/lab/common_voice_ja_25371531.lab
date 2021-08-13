@@ -1,9 +1,9 @@
 0 9225000 xx^xx-sil+m=o/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:20+1_1/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:7_3%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_7/K:1+1-7
 9225000 9625000 xx^sil-m+o=cl/A:-2+1+7/B:xx-xx_xx/C:20_1+1/D:17+3_0/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
-9625000 10925000 sil^m-o+cl=t/A:-2+1+7/B:xx-xx_xx/C:20_1+1/D:17+3_0/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
-10925000 11225000 m^o-cl+t=e/A:-1+2+6/B:xx-xx_xx/C:20_1+1/D:17+3_0/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
-11225000 11525000 o^cl-t+e=n/A:0+3+5/B:20-1_1/C:17_3+0/D:10+7_2/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
-11525000 12125000 cl^t-e+n=a/A:0+3+5/B:20-1_1/C:17_3+0/D:10+7_2/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+9625000 10825000 sil^m-o+cl=t/A:-2+1+7/B:xx-xx_xx/C:20_1+1/D:17+3_0/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+10825000 11125000 m^o-cl+t=e/A:-1+2+6/B:xx-xx_xx/C:20_1+1/D:17+3_0/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+11125000 11425000 o^cl-t+e=n/A:0+3+5/B:20-1_1/C:17_3+0/D:10+7_2/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+11425000 12125000 cl^t-e+n=a/A:0+3+5/B:20-1_1/C:17_3+0/D:10+7_2/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
 12125000 12725000 t^e-n+a=i/A:1+4+4/B:17-3_0/C:10_7+2/D:12+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
 12725000 13425000 e^n-a+i=k/A:1+4+4/B:17-3_0/C:10_7+2/D:12+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
 13425000 14025000 n^a-i+k=e/A:2+5+3/B:17-3_0/C:10_7+2/D:12+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7

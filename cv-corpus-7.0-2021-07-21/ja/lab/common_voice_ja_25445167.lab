@@ -4,10 +4,10 @@
 8025000 8325000 k^o-cl+k=a/A:-1+2+4/B:xx-xx_xx/C:02_xx+xx/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_15/G:10_10%0_xx_1/H:xx_xx/I:2-15@1+1&1-2|1+15/J:xx_xx/K:1+2-15
 8325000 8725000 o^cl-k+a=r/A:0+3+3/B:xx-xx_xx/C:02_xx+xx/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_15/G:10_10%0_xx_1/H:xx_xx/I:2-15@1+1&1-2|1+15/J:xx_xx/K:1+2-15
 8725000 9325000 cl^k-a+r=a/A:0+3+3/B:xx-xx_xx/C:02_xx+xx/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_15/G:10_10%0_xx_1/H:xx_xx/I:2-15@1+1&1-2|1+15/J:xx_xx/K:1+2-15
-9325000 9825000 k^a-r+a=w/A:1+4+2/B:02-xx_xx/C:15_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_15/G:10_10%0_xx_1/H:xx_xx/I:2-15@1+1&1-2|1+15/J:xx_xx/K:1+2-15
-9825000 10525000 a^r-a+w=a/A:1+4+2/B:02-xx_xx/C:15_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_15/G:10_10%0_xx_1/H:xx_xx/I:2-15@1+1&1-2|1+15/J:xx_xx/K:1+2-15
-10525000 11225000 r^a-w+a=t/A:2+5+1/B:15-xx_xx/C:24_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_15/G:10_10%0_xx_1/H:xx_xx/I:2-15@1+1&1-2|1+15/J:xx_xx/K:1+2-15
-11225000 13225000 a^w-a+t=a/A:2+5+1/B:15-xx_xx/C:24_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_15/G:10_10%0_xx_1/H:xx_xx/I:2-15@1+1&1-2|1+15/J:xx_xx/K:1+2-15
+9325000 9925000 k^a-r+a=w/A:1+4+2/B:02-xx_xx/C:15_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_15/G:10_10%0_xx_1/H:xx_xx/I:2-15@1+1&1-2|1+15/J:xx_xx/K:1+2-15
+9925000 10425000 a^r-a+w=a/A:1+4+2/B:02-xx_xx/C:15_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_15/G:10_10%0_xx_1/H:xx_xx/I:2-15@1+1&1-2|1+15/J:xx_xx/K:1+2-15
+10425000 11025000 r^a-w+a=t/A:2+5+1/B:15-xx_xx/C:24_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_15/G:10_10%0_xx_1/H:xx_xx/I:2-15@1+1&1-2|1+15/J:xx_xx/K:1+2-15
+11025000 13225000 a^w-a+t=a/A:2+5+1/B:15-xx_xx/C:24_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_15/G:10_10%0_xx_1/H:xx_xx/I:2-15@1+1&1-2|1+15/J:xx_xx/K:1+2-15
 13225000 13925000 w^a-t+a=ch/A:-9+1+10/B:24-xx_xx/C:02_xx+xx/D:10+7_2/E:5_3!0_xx-1/F:10_10#0_xx@2_1|6_10/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-15@1+1&1-2|1+15/J:xx_xx/K:1+2-15
 13925000 14625000 a^t-a+ch=i/A:-9+1+10/B:24-xx_xx/C:02_xx+xx/D:10+7_2/E:5_3!0_xx-1/F:10_10#0_xx@2_1|6_10/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-15@1+1&1-2|1+15/J:xx_xx/K:1+2-15
 14625000 15625000 t^a-ch+i=i/A:-8+2+9/B:24-xx_xx/C:02_xx+xx/D:10+7_2/E:5_3!0_xx-1/F:10_10#0_xx@2_1|6_10/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-15@1+1&1-2|1+15/J:xx_xx/K:1+2-15

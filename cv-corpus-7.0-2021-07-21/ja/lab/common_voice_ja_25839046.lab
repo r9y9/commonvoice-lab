@@ -10,8 +10,8 @@
 12925000 13225000 sh^i-r+i=n/A:2+5+2/B:xx-xx_xx/C:02_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_2|1_14/G:8_7%0_xx_1/H:xx_xx/I:2-14@1+1&1-2|1+14/J:xx_xx/K:1+2-14
 13225000 14125000 i^r-i+n=o/A:2+5+2/B:xx-xx_xx/C:02_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_2|1_14/G:8_7%0_xx_1/H:xx_xx/I:2-14@1+1&1-2|1+14/J:xx_xx/K:1+2-14
 14125000 14825000 r^i-n+o=o/A:3+6+1/B:02-xx_xx/C:23_xx+xx/D:16+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_2|1_14/G:8_7%0_xx_1/H:xx_xx/I:2-14@1+1&1-2|1+14/J:xx_xx/K:1+2-14
-14825000 15725000 i^n-o+o=d/A:3+6+1/B:02-xx_xx/C:23_xx+xx/D:16+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_2|1_14/G:8_7%0_xx_1/H:xx_xx/I:2-14@1+1&1-2|1+14/J:xx_xx/K:1+2-14
-15725000 16325000 n^o-o+d=a/A:-6+1+8/B:23-xx_xx/C:16_xx+xx/D:02+xx_xx/E:6_3!0_xx-1/F:8_7#0_xx@2_1|7_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-14@1+1&1-2|1+14/J:xx_xx/K:1+2-14
+14825000 15825000 i^n-o+o=d/A:3+6+1/B:02-xx_xx/C:23_xx+xx/D:16+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_2|1_14/G:8_7%0_xx_1/H:xx_xx/I:2-14@1+1&1-2|1+14/J:xx_xx/K:1+2-14
+15825000 16325000 n^o-o+d=a/A:-6+1+8/B:23-xx_xx/C:16_xx+xx/D:02+xx_xx/E:6_3!0_xx-1/F:8_7#0_xx@2_1|7_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-14@1+1&1-2|1+14/J:xx_xx/K:1+2-14
 16325000 16925000 o^o-d+a=ch/A:-5+2+7/B:16-xx_xx/C:02_xx+xx/D:03+xx_xx/E:6_3!0_xx-1/F:8_7#0_xx@2_1|7_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-14@1+1&1-2|1+14/J:xx_xx/K:1+2-14
 16925000 17625000 o^d-a+ch=i/A:-5+2+7/B:16-xx_xx/C:02_xx+xx/D:03+xx_xx/E:6_3!0_xx-1/F:8_7#0_xx@2_1|7_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-14@1+1&1-2|1+14/J:xx_xx/K:1+2-14
 17625000 18925000 d^a-ch+i=N/A:-4+3+6/B:16-xx_xx/C:02_xx+xx/D:03+xx_xx/E:6_3!0_xx-1/F:8_7#0_xx@2_1|7_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-14@1+1&1-2|1+14/J:xx_xx/K:1+2-14

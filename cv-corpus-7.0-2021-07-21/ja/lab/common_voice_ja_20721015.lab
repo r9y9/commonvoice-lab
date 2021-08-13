@@ -1,10 +1,10 @@
-0 12125000 xx^xx-sil+ky=o/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_5%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_21/K:1+4-21
-12125000 14625000 xx^sil-ky+o=o/A:-4+1+5/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_21/G:5_4%0_xx_1/H:xx_xx/I:4-21@1+1&1-4|1+21/J:xx_xx/K:1+4-21
+0 13425000 xx^xx-sil+ky=o/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_5%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_21/K:1+4-21
+13425000 14625000 xx^sil-ky+o=o/A:-4+1+5/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_21/G:5_4%0_xx_1/H:xx_xx/I:4-21@1+1&1-4|1+21/J:xx_xx/K:1+4-21
 14625000 14925000 sil^ky-o+o=sh/A:-4+1+5/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_21/G:5_4%0_xx_1/H:xx_xx/I:4-21@1+1&1-4|1+21/J:xx_xx/K:1+4-21
 14925000 16025000 ky^o-o+sh=I/A:-3+2+4/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_21/G:5_4%0_xx_1/H:xx_xx/I:4-21@1+1&1-4|1+21/J:xx_xx/K:1+4-21
-16025000 17325000 o^o-sh+I=ts/A:-2+3+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_21/G:5_4%0_xx_1/H:xx_xx/I:4-21@1+1&1-4|1+21/J:xx_xx/K:1+4-21
-17325000 17625000 o^sh-I+ts=u/A:-2+3+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_21/G:5_4%0_xx_1/H:xx_xx/I:4-21@1+1&1-4|1+21/J:xx_xx/K:1+4-21
-17625000 18525000 sh^I-ts+u=n/A:-1+4+2/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_21/G:5_4%0_xx_1/H:xx_xx/I:4-21@1+1&1-4|1+21/J:xx_xx/K:1+4-21
+16025000 17225000 o^o-sh+I=ts/A:-2+3+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_21/G:5_4%0_xx_1/H:xx_xx/I:4-21@1+1&1-4|1+21/J:xx_xx/K:1+4-21
+17225000 17525000 o^sh-I+ts=u/A:-2+3+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_21/G:5_4%0_xx_1/H:xx_xx/I:4-21@1+1&1-4|1+21/J:xx_xx/K:1+4-21
+17525000 18525000 sh^I-ts+u=n/A:-1+4+2/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_21/G:5_4%0_xx_1/H:xx_xx/I:4-21@1+1&1-4|1+21/J:xx_xx/K:1+4-21
 18525000 18925000 I^ts-u+n=i/A:-1+4+2/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_21/G:5_4%0_xx_1/H:xx_xx/I:4-21@1+1&1-4|1+21/J:xx_xx/K:1+4-21
 18925000 19725000 ts^u-n+i=a/A:0+5+1/B:02-xx_xx/C:13_xx+xx/D:01+7_2/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_21/G:5_4%0_xx_1/H:xx_xx/I:4-21@1+1&1-4|1+21/J:xx_xx/K:1+4-21
 19725000 21125000 u^n-i+a=t/A:0+5+1/B:02-xx_xx/C:13_xx+xx/D:01+7_2/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_21/G:5_4%0_xx_1/H:xx_xx/I:4-21@1+1&1-4|1+21/J:xx_xx/K:1+4-21

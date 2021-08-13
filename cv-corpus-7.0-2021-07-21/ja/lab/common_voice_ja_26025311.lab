@@ -1,10 +1,10 @@
 0 5625000 xx^xx-sil+y=u/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:7_35/K:1+7-35
 5625000 6925000 xx^sil-y+u=u/A:0+1+5/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_7|1_35/G:6_3%0_xx_1/H:xx_xx/I:7-35@1+1&1-7|1+35/J:xx_xx/K:1+7-35
-6925000 7425000 sil^y-u+u=z/A:0+1+5/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_7|1_35/G:6_3%0_xx_1/H:xx_xx/I:7-35@1+1&1-7|1+35/J:xx_xx/K:1+7-35
-7425000 7825000 y^u-u+z=a/A:1+2+4/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_7|1_35/G:6_3%0_xx_1/H:xx_xx/I:7-35@1+1&1-7|1+35/J:xx_xx/K:1+7-35
+6925000 7325000 sil^y-u+u=z/A:0+1+5/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_7|1_35/G:6_3%0_xx_1/H:xx_xx/I:7-35@1+1&1-7|1+35/J:xx_xx/K:1+7-35
+7325000 7825000 y^u-u+z=a/A:1+2+4/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_7|1_35/G:6_3%0_xx_1/H:xx_xx/I:7-35@1+1&1-7|1+35/J:xx_xx/K:1+7-35
 7825000 8825000 u^u-z+a=a/A:2+3+3/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_7|1_35/G:6_3%0_xx_1/H:xx_xx/I:7-35@1+1&1-7|1+35/J:xx_xx/K:1+7-35
-8825000 9625000 u^z-a+a=w/A:2+3+3/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_7|1_35/G:6_3%0_xx_1/H:xx_xx/I:7-35@1+1&1-7|1+35/J:xx_xx/K:1+7-35
-9625000 10625000 z^a-a+w=a/A:3+4+2/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_7|1_35/G:6_3%0_xx_1/H:xx_xx/I:7-35@1+1&1-7|1+35/J:xx_xx/K:1+7-35
+8825000 9725000 u^z-a+a=w/A:2+3+3/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_7|1_35/G:6_3%0_xx_1/H:xx_xx/I:7-35@1+1&1-7|1+35/J:xx_xx/K:1+7-35
+9725000 10625000 z^a-a+w=a/A:3+4+2/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_7|1_35/G:6_3%0_xx_1/H:xx_xx/I:7-35@1+1&1-7|1+35/J:xx_xx/K:1+7-35
 10625000 11325000 a^a-w+a=j/A:4+5+1/B:02-xx_xx/C:24_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_7|1_35/G:6_3%0_xx_1/H:xx_xx/I:7-35@1+1&1-7|1+35/J:xx_xx/K:1+7-35
 11325000 12625000 a^w-a+j=i/A:4+5+1/B:02-xx_xx/C:24_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_7|1_35/G:6_3%0_xx_1/H:xx_xx/I:7-35@1+1&1-7|1+35/J:xx_xx/K:1+7-35
 12625000 13925000 w^a-j+i=b/A:-2+1+6/B:24-xx_xx/C:02_xx+xx/D:15+xx_xx/E:5_1!0_xx-1/F:6_3#0_xx@2_6|6_30/G:6_4%0_xx_1/H:xx_xx/I:7-35@1+1&1-7|1+35/J:xx_xx/K:1+7-35

@@ -10,8 +10,8 @@
 11325000 11924999 a^m-e+e=w/A:0+5+5/B:xx-xx_xx/C:19_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:9_5#0_xx@1_2|1_11/G:2_1%0_xx_1/H:xx_xx/I:2-11@1+1&1-2|1+11/J:xx_xx/K:1+2-11
 11924999 12225000 m^e-e+w=a/A:1+6+4/B:xx-xx_xx/C:19_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:9_5#0_xx@1_2|1_11/G:2_1%0_xx_1/H:xx_xx/I:2-11@1+1&1-2|1+11/J:xx_xx/K:1+2-11
 12225000 13125000 e^e-w+a=k/A:2+7+3/B:xx-xx_xx/C:19_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:9_5#0_xx@1_2|1_11/G:2_1%0_xx_1/H:xx_xx/I:2-11@1+1&1-2|1+11/J:xx_xx/K:1+2-11
-13125000 13825000 e^w-a+k=u/A:2+7+3/B:xx-xx_xx/C:19_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:9_5#0_xx@1_2|1_11/G:2_1%0_xx_1/H:xx_xx/I:2-11@1+1&1-2|1+11/J:xx_xx/K:1+2-11
-13825000 14325000 w^a-k+u=n/A:3+8+2/B:xx-xx_xx/C:19_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:9_5#0_xx@1_2|1_11/G:2_1%0_xx_1/H:xx_xx/I:2-11@1+1&1-2|1+11/J:xx_xx/K:1+2-11
+13125000 13925000 e^w-a+k=u/A:2+7+3/B:xx-xx_xx/C:19_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:9_5#0_xx@1_2|1_11/G:2_1%0_xx_1/H:xx_xx/I:2-11@1+1&1-2|1+11/J:xx_xx/K:1+2-11
+13925000 14325000 w^a-k+u=n/A:3+8+2/B:xx-xx_xx/C:19_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:9_5#0_xx@1_2|1_11/G:2_1%0_xx_1/H:xx_xx/I:2-11@1+1&1-2|1+11/J:xx_xx/K:1+2-11
 14325000 14725000 a^k-u+n=i/A:3+8+2/B:xx-xx_xx/C:19_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:9_5#0_xx@1_2|1_11/G:2_1%0_xx_1/H:xx_xx/I:2-11@1+1&1-2|1+11/J:xx_xx/K:1+2-11
 14725000 15025000 k^u-n+i=n/A:4+9+1/B:19-xx_xx/C:13_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:9_5#0_xx@1_2|1_11/G:2_1%0_xx_1/H:xx_xx/I:2-11@1+1&1-2|1+11/J:xx_xx/K:1+2-11
 15025000 15925000 u^n-i+n=a/A:4+9+1/B:19-xx_xx/C:13_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:9_5#0_xx@1_2|1_11/G:2_1%0_xx_1/H:xx_xx/I:2-11@1+1&1-2|1+11/J:xx_xx/K:1+2-11

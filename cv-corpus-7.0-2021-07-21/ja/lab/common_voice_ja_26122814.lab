@@ -1,8 +1,8 @@
-0 6425000 xx^xx-sil+i=k/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:04+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_17/K:2+7-32
-6425000 7925000 xx^sil-i+k=U/A:0+1+5/B:xx-xx_xx/C:04_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+2&1-7|1+32/J:3_15/K:2+7-32
-7925000 8525000 sil^i-k+U=ts/A:1+2+4/B:xx-xx_xx/C:04_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+2&1-7|1+32/J:3_15/K:2+7-32
-8525000 8825000 i^k-U+ts=u/A:1+2+4/B:xx-xx_xx/C:04_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+2&1-7|1+32/J:3_15/K:2+7-32
-8825000 9225000 k^U-ts+u=k/A:2+3+3/B:xx-xx_xx/C:04_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+2&1-7|1+32/J:3_15/K:2+7-32
+0 425000 xx^xx-sil+i=k/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:04+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_17/K:2+7-32
+425000 725000 xx^sil-i+k=U/A:0+1+5/B:xx-xx_xx/C:04_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+2&1-7|1+32/J:3_15/K:2+7-32
+725000 4925000 sil^i-k+U=ts/A:1+2+4/B:xx-xx_xx/C:04_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+2&1-7|1+32/J:3_15/K:2+7-32
+4925000 7725000 i^k-U+ts=u/A:1+2+4/B:xx-xx_xx/C:04_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+2&1-7|1+32/J:3_15/K:2+7-32
+7725000 9225000 k^U-ts+u=k/A:2+3+3/B:xx-xx_xx/C:04_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+2&1-7|1+32/J:3_15/K:2+7-32
 9225000 9525000 U^ts-u+k=a/A:2+3+3/B:xx-xx_xx/C:04_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+2&1-7|1+32/J:3_15/K:2+7-32
 9525000 10025000 ts^u-k+a=n/A:3+4+2/B:04-xx_xx/C:23_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+2&1-7|1+32/J:3_15/K:2+7-32
 10025000 10525000 u^k-a+n=o/A:3+4+2/B:04-xx_xx/C:23_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_17/G:4_1%0_xx_1/H:xx_xx/I:4-17@1+2&1-7|1+32/J:3_15/K:2+7-32

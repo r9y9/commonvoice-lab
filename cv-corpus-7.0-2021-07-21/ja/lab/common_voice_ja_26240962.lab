@@ -5,8 +5,8 @@
 8025000 8425000 I^k-a+sh=i/A:0+2+2/B:xx-xx_xx/C:08_xx+xx/D:04+xx_xx/E:xx_xx!xx_xx-xx/F:3_2#0_xx@1_1|1_3/G:3_1%0_xx_0/H:xx_xx/I:1-3@1+2&1-5|1+28/J:4_25/K:2+5-28
 8425000 9725000 k^a-sh+i=pau/A:1+3+1/B:xx-xx_xx/C:08_xx+xx/D:04+xx_xx/E:xx_xx!xx_xx-xx/F:3_2#0_xx@1_1|1_3/G:3_1%0_xx_0/H:xx_xx/I:1-3@1+2&1-5|1+28/J:4_25/K:2+5-28
 9725000 11125000 a^sh-i+pau=k/A:1+3+1/B:xx-xx_xx/C:08_xx+xx/D:04+xx_xx/E:xx_xx!xx_xx-xx/F:3_2#0_xx@1_1|1_3/G:3_1%0_xx_0/H:xx_xx/I:1-3@1+2&1-5|1+28/J:4_25/K:2+5-28
-11125000 11525000 sh^i-pau+k=a/A:xx+xx+xx/B:08-xx_xx/C:xx_xx+xx/D:04+xx_xx/E:3_2!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:3_1%0_xx_xx/H:1_3/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_25/K:2+5-28
-11525000 12525000 i^pau-k+a=r/A:0+1+3/B:08-xx_xx/C:04_xx+xx/D:24+xx_xx/E:3_2!0_xx-0/F:3_1#0_xx@1_4|1_25/G:2_1%0_xx_1/H:1_3/I:4-25@2+1&2-4|4+25/J:xx_xx/K:2+5-28
+11125000 11625000 sh^i-pau+k=a/A:xx+xx+xx/B:08-xx_xx/C:xx_xx+xx/D:04+xx_xx/E:3_2!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:3_1%0_xx_xx/H:1_3/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_25/K:2+5-28
+11625000 12525000 i^pau-k+a=r/A:0+1+3/B:08-xx_xx/C:04_xx+xx/D:24+xx_xx/E:3_2!0_xx-0/F:3_1#0_xx@1_4|1_25/G:2_1%0_xx_1/H:1_3/I:4-25@2+1&2-4|4+25/J:xx_xx/K:2+5-28
 12525000 13125000 pau^k-a+r=e/A:0+1+3/B:08-xx_xx/C:04_xx+xx/D:24+xx_xx/E:3_2!0_xx-0/F:3_1#0_xx@1_4|1_25/G:2_1%0_xx_1/H:1_3/I:4-25@2+1&2-4|4+25/J:xx_xx/K:2+5-28
 13125000 13525000 k^a-r+e=w/A:1+2+2/B:08-xx_xx/C:04_xx+xx/D:24+xx_xx/E:3_2!0_xx-0/F:3_1#0_xx@1_4|1_25/G:2_1%0_xx_1/H:1_3/I:4-25@2+1&2-4|4+25/J:xx_xx/K:2+5-28
 13525000 13825000 a^r-e+w=a/A:1+2+2/B:08-xx_xx/C:04_xx+xx/D:24+xx_xx/E:3_2!0_xx-0/F:3_1#0_xx@1_4|1_25/G:2_1%0_xx_1/H:1_3/I:4-25@2+1&2-4|4+25/J:xx_xx/K:2+5-28

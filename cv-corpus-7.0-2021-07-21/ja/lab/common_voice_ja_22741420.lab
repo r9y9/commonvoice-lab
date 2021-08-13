@@ -5,8 +5,8 @@
 9825000 10225000 a^m-a+d=a/A:-4+2+5/B:xx-xx_xx/C:18_xx+xx/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_3|1_14/G:4_4%0_xx_1/H:xx_xx/I:3-14@1+1&1-3|1+14/J:xx_xx/K:1+3-14
 10225000 10925000 m^a-d+a=s/A:-3+3+4/B:xx-xx_xx/C:18_xx+xx/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_3|1_14/G:4_4%0_xx_1/H:xx_xx/I:3-14@1+1&1-3|1+14/J:xx_xx/K:1+3-14
 10925000 11325000 a^d-a+s=a/A:-3+3+4/B:xx-xx_xx/C:18_xx+xx/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_3|1_14/G:4_4%0_xx_1/H:xx_xx/I:3-14@1+1&1-3|1+14/J:xx_xx/K:1+3-14
-11325000 12725000 d^a-s+a=N/A:-2+4+3/B:18-xx_xx/C:15_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_3|1_14/G:4_4%0_xx_1/H:xx_xx/I:3-14@1+1&1-3|1+14/J:xx_xx/K:1+3-14
-12725000 13325000 a^s-a+N=n/A:-2+4+3/B:18-xx_xx/C:15_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_3|1_14/G:4_4%0_xx_1/H:xx_xx/I:3-14@1+1&1-3|1+14/J:xx_xx/K:1+3-14
+11325000 12625000 d^a-s+a=N/A:-2+4+3/B:18-xx_xx/C:15_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_3|1_14/G:4_4%0_xx_1/H:xx_xx/I:3-14@1+1&1-3|1+14/J:xx_xx/K:1+3-14
+12625000 13325000 a^s-a+N=n/A:-2+4+3/B:18-xx_xx/C:15_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_3|1_14/G:4_4%0_xx_1/H:xx_xx/I:3-14@1+1&1-3|1+14/J:xx_xx/K:1+3-14
 13325000 13925000 s^a-N+n=i/A:-1+5+2/B:18-xx_xx/C:15_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_3|1_14/G:4_4%0_xx_1/H:xx_xx/I:3-14@1+1&1-3|1+14/J:xx_xx/K:1+3-14
 13925000 15025000 a^N-n+i=o/A:0+6+1/B:15-xx_xx/C:13_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_3|1_14/G:4_4%0_xx_1/H:xx_xx/I:3-14@1+1&1-3|1+14/J:xx_xx/K:1+3-14
 15025000 15925000 N^n-i+o=k/A:0+6+1/B:15-xx_xx/C:13_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_3|1_14/G:4_4%0_xx_1/H:xx_xx/I:3-14@1+1&1-3|1+14/J:xx_xx/K:1+3-14

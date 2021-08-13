@@ -4,8 +4,8 @@
 10925000 12225000 r^i-ch+a=a/A:1+2+3/B:xx-xx_xx/C:18_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_1|1_4/G:6_2%0_xx_0/H:xx_xx/I:1-4@1+3&1-8|1+37/J:2_9/K:3+8-37
 12225000 13325000 i^ch-a+a=d/A:1+2+3/B:xx-xx_xx/C:18_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_1|1_4/G:6_2%0_xx_0/H:xx_xx/I:1-4@1+3&1-8|1+37/J:2_9/K:3+8-37
 13325000 13725000 ch^a-a+d=o/A:2+3+2/B:xx-xx_xx/C:18_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_1|1_4/G:6_2%0_xx_0/H:xx_xx/I:1-4@1+3&1-8|1+37/J:2_9/K:3+8-37
-13725000 14225000 a^a-d+o=pau/A:3+4+1/B:xx-xx_xx/C:18_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_1|1_4/G:6_2%0_xx_0/H:xx_xx/I:1-4@1+3&1-8|1+37/J:2_9/K:3+8-37
-14225000 15225000 a^d-o+pau=p/A:3+4+1/B:xx-xx_xx/C:18_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_1|1_4/G:6_2%0_xx_0/H:xx_xx/I:1-4@1+3&1-8|1+37/J:2_9/K:3+8-37
+13725000 14325000 a^a-d+o=pau/A:3+4+1/B:xx-xx_xx/C:18_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_1|1_4/G:6_2%0_xx_0/H:xx_xx/I:1-4@1+3&1-8|1+37/J:2_9/K:3+8-37
+14325000 15225000 a^d-o+pau=p/A:3+4+1/B:xx-xx_xx/C:18_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_1|1_4/G:6_2%0_xx_0/H:xx_xx/I:1-4@1+3&1-8|1+37/J:2_9/K:3+8-37
 15225000 15525000 d^o-pau+p=u/A:xx+xx+xx/B:18-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:4_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:6_2%0_xx_xx/H:1_4/I:xx-xx@xx+xx&xx-xx|xx+xx/J:2_9/K:3+8-37
 15525000 15925000 o^pau-p+u=r/A:-1+1+6/B:18-xx_xx/C:02_xx+xx/D:13+xx_xx/E:4_1!0_xx-0/F:6_2#0_xx@1_2|1_9/G:3_3%0_xx_1/H:1_4/I:2-9@2+2&2-7|5+33/J:5_24/K:3+8-37
 15925000 16225000 pau^p-u+r=a/A:-1+1+6/B:18-xx_xx/C:02_xx+xx/D:13+xx_xx/E:4_1!0_xx-0/F:6_2#0_xx@1_2|1_9/G:3_3%0_xx_1/H:1_4/I:2-9@2+2&2-7|5+33/J:5_24/K:3+8-37

@@ -1,13 +1,13 @@
-0 4725000 xx^xx-sil+g=e/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_16/K:1+4-16
-4725000 5125000 xx^sil-g+e=N/A:0+1+5/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_16/G:4_4%0_xx_1/H:xx_xx/I:4-16@1+1&1-4|1+16/J:xx_xx/K:1+4-16
+0 4825000 xx^xx-sil+g=e/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_16/K:1+4-16
+4825000 5125000 xx^sil-g+e=N/A:0+1+5/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_16/G:4_4%0_xx_1/H:xx_xx/I:4-16@1+1&1-4|1+16/J:xx_xx/K:1+4-16
 5125000 6324999 sil^g-e+N=k/A:0+1+5/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_16/G:4_4%0_xx_1/H:xx_xx/I:4-16@1+1&1-4|1+16/J:xx_xx/K:1+4-16
 6324999 7125000 g^e-N+k=a/A:1+2+4/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_16/G:4_4%0_xx_1/H:xx_xx/I:4-16@1+1&1-4|1+16/J:xx_xx/K:1+4-16
 7125000 7625000 e^N-k+a=N/A:2+3+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_16/G:4_4%0_xx_1/H:xx_xx/I:4-16@1+1&1-4|1+16/J:xx_xx/K:1+4-16
 7625000 8625000 N^k-a+N=n/A:2+3+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_16/G:4_4%0_xx_1/H:xx_xx/I:4-16@1+1&1-4|1+16/J:xx_xx/K:1+4-16
 8625000 9125000 k^a-N+n=i/A:3+4+2/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_16/G:4_4%0_xx_1/H:xx_xx/I:4-16@1+1&1-4|1+16/J:xx_xx/K:1+4-16
 9125000 9825000 a^N-n+i=k/A:4+5+1/B:02-xx_xx/C:13_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_16/G:4_4%0_xx_1/H:xx_xx/I:4-16@1+1&1-4|1+16/J:xx_xx/K:1+4-16
-9825000 11725000 N^n-i+k=a/A:4+5+1/B:02-xx_xx/C:13_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_16/G:4_4%0_xx_1/H:xx_xx/I:4-16@1+1&1-4|1+16/J:xx_xx/K:1+4-16
-11725000 13825000 n^i-k+a=b/A:-3+1+4/B:13-xx_xx/C:02_xx+xx/D:13+xx_xx/E:5_1!0_xx-1/F:4_4#0_xx@2_3|6_11/G:3_3%0_xx_1/H:xx_xx/I:4-16@1+1&1-4|1+16/J:xx_xx/K:1+4-16
+9825000 11825000 N^n-i+k=a/A:4+5+1/B:02-xx_xx/C:13_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_4|1_16/G:4_4%0_xx_1/H:xx_xx/I:4-16@1+1&1-4|1+16/J:xx_xx/K:1+4-16
+11825000 13825000 n^i-k+a=b/A:-3+1+4/B:13-xx_xx/C:02_xx+xx/D:13+xx_xx/E:5_1!0_xx-1/F:4_4#0_xx@2_3|6_11/G:3_3%0_xx_1/H:xx_xx/I:4-16@1+1&1-4|1+16/J:xx_xx/K:1+4-16
 13825000 14625000 i^k-a+b=i/A:-3+1+4/B:13-xx_xx/C:02_xx+xx/D:13+xx_xx/E:5_1!0_xx-1/F:4_4#0_xx@2_3|6_11/G:3_3%0_xx_1/H:xx_xx/I:4-16@1+1&1-4|1+16/J:xx_xx/K:1+4-16
 14625000 15225000 k^a-b+i=N/A:-2+2+3/B:13-xx_xx/C:02_xx+xx/D:13+xx_xx/E:5_1!0_xx-1/F:4_4#0_xx@2_3|6_11/G:3_3%0_xx_1/H:xx_xx/I:4-16@1+1&1-4|1+16/J:xx_xx/K:1+4-16
 15225000 16225000 a^b-i+N=g/A:-2+2+3/B:13-xx_xx/C:02_xx+xx/D:13+xx_xx/E:5_1!0_xx-1/F:4_4#0_xx@2_3|6_11/G:3_3%0_xx_1/H:xx_xx/I:4-16@1+1&1-4|1+16/J:xx_xx/K:1+4-16

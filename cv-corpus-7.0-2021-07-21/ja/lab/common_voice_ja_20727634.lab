@@ -1,8 +1,8 @@
-0 8325000 xx^xx-sil+t=e/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_15/K:1+4-15
-8325000 9525000 xx^sil-t+e=r/A:0+1+4/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_4|1_15/G:4_4%0_xx_1/H:xx_xx/I:4-15@1+1&1-4|1+15/J:xx_xx/K:1+4-15
-9525000 9925000 sil^t-e+r=e/A:0+1+4/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_4|1_15/G:4_4%0_xx_1/H:xx_xx/I:4-15@1+1&1-4|1+15/J:xx_xx/K:1+4-15
-9925000 10225000 t^e-r+e=b/A:1+2+3/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_4|1_15/G:4_4%0_xx_1/H:xx_xx/I:4-15@1+1&1-4|1+15/J:xx_xx/K:1+4-15
-10225000 11125000 e^r-e+b=i/A:1+2+3/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_4|1_15/G:4_4%0_xx_1/H:xx_xx/I:4-15@1+1&1-4|1+15/J:xx_xx/K:1+4-15
+0 8225000 xx^xx-sil+t=e/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_15/K:1+4-15
+8225000 9525000 xx^sil-t+e=r/A:0+1+4/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_4|1_15/G:4_4%0_xx_1/H:xx_xx/I:4-15@1+1&1-4|1+15/J:xx_xx/K:1+4-15
+9525000 9825000 sil^t-e+r=e/A:0+1+4/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_4|1_15/G:4_4%0_xx_1/H:xx_xx/I:4-15@1+1&1-4|1+15/J:xx_xx/K:1+4-15
+9825000 10325000 t^e-r+e=b/A:1+2+3/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_4|1_15/G:4_4%0_xx_1/H:xx_xx/I:4-15@1+1&1-4|1+15/J:xx_xx/K:1+4-15
+10325000 11125000 e^r-e+b=i/A:1+2+3/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_4|1_15/G:4_4%0_xx_1/H:xx_xx/I:4-15@1+1&1-4|1+15/J:xx_xx/K:1+4-15
 11125000 11725000 r^e-b+i=w/A:2+3+2/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_4|1_15/G:4_4%0_xx_1/H:xx_xx/I:4-15@1+1&1-4|1+15/J:xx_xx/K:1+4-15
 11725000 12625000 e^b-i+w=a/A:2+3+2/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_4|1_15/G:4_4%0_xx_1/H:xx_xx/I:4-15@1+1&1-4|1+15/J:xx_xx/K:1+4-15
 12625000 13525000 b^i-w+a=p/A:3+4+1/B:02-xx_xx/C:24_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_4|1_15/G:4_4%0_xx_1/H:xx_xx/I:4-15@1+1&1-4|1+15/J:xx_xx/K:1+4-15

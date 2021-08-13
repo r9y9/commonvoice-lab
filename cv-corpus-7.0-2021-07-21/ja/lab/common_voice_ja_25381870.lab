@@ -1,7 +1,7 @@
 0 5525000 xx^xx-sil+n=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:04+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:3_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_12/K:1+3-12
 5525000 6225000 xx^sil-n+a=n/A:0+1+3/B:xx-xx_xx/C:04_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_3|1_12/G:5_3%0_xx_1/H:xx_xx/I:3-12@1+1&1-3|1+12/J:xx_xx/K:1+3-12
-6225000 7425000 sil^n-a+n=i/A:0+1+3/B:xx-xx_xx/C:04_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_3|1_12/G:5_3%0_xx_1/H:xx_xx/I:3-12@1+1&1-3|1+12/J:xx_xx/K:1+3-12
-7425000 7725000 n^a-n+i=k/A:1+2+2/B:xx-xx_xx/C:04_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_3|1_12/G:5_3%0_xx_1/H:xx_xx/I:3-12@1+1&1-3|1+12/J:xx_xx/K:1+3-12
+6225000 7325000 sil^n-a+n=i/A:0+1+3/B:xx-xx_xx/C:04_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_3|1_12/G:5_3%0_xx_1/H:xx_xx/I:3-12@1+1&1-3|1+12/J:xx_xx/K:1+3-12
+7325000 7725000 n^a-n+i=k/A:1+2+2/B:xx-xx_xx/C:04_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_3|1_12/G:5_3%0_xx_1/H:xx_xx/I:3-12@1+1&1-3|1+12/J:xx_xx/K:1+3-12
 7725000 8025000 a^n-i+k=a/A:1+2+2/B:xx-xx_xx/C:04_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_3|1_12/G:5_3%0_xx_1/H:xx_xx/I:3-12@1+1&1-3|1+12/J:xx_xx/K:1+3-12
 8025000 8325000 n^i-k+a=k/A:2+3+1/B:04-xx_xx/C:23_xx+xx/D:20+3_1/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_3|1_12/G:5_3%0_xx_1/H:xx_xx/I:3-12@1+1&1-3|1+12/J:xx_xx/K:1+3-12
 8325000 9125000 i^k-a+k=a/A:2+3+1/B:04-xx_xx/C:23_xx+xx/D:20+3_1/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_3|1_12/G:5_3%0_xx_1/H:xx_xx/I:3-12@1+1&1-3|1+12/J:xx_xx/K:1+3-12

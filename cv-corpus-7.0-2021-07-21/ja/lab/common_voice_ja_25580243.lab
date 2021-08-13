@@ -1,7 +1,7 @@
 0 6525000 xx^xx-sil+y=u/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:7_3%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:5_21/K:1+5-21
 6525000 7625000 xx^sil-y+u=n/A:-2+1+7/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_5|1_21/G:3_3%0_xx_1/H:xx_xx/I:5-21@1+1&1-5|1+21/J:xx_xx/K:1+5-21
-7625000 8025000 sil^y-u+n=i/A:-2+1+7/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_5|1_21/G:3_3%0_xx_1/H:xx_xx/I:5-21@1+1&1-5|1+21/J:xx_xx/K:1+5-21
-8025000 9025000 y^u-n+i=f/A:-1+2+6/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_5|1_21/G:3_3%0_xx_1/H:xx_xx/I:5-21@1+1&1-5|1+21/J:xx_xx/K:1+5-21
+7625000 7925000 sil^y-u+n=i/A:-2+1+7/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_5|1_21/G:3_3%0_xx_1/H:xx_xx/I:5-21@1+1&1-5|1+21/J:xx_xx/K:1+5-21
+7925000 9025000 y^u-n+i=f/A:-1+2+6/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_5|1_21/G:3_3%0_xx_1/H:xx_xx/I:5-21@1+1&1-5|1+21/J:xx_xx/K:1+5-21
 9025000 9625000 u^n-i+f=o/A:-1+2+6/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_5|1_21/G:3_3%0_xx_1/H:xx_xx/I:5-21@1+1&1-5|1+21/J:xx_xx/K:1+5-21
 9625000 10725000 n^i-f+o=o/A:0+3+5/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_5|1_21/G:3_3%0_xx_1/H:xx_xx/I:5-21@1+1&1-5|1+21/J:xx_xx/K:1+5-21
 10725000 11325000 i^f-o+o=m/A:0+3+5/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_5|1_21/G:3_3%0_xx_1/H:xx_xx/I:5-21@1+1&1-5|1+21/J:xx_xx/K:1+5-21

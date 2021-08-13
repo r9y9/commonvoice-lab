@@ -1,0 +1,14 @@
+0 9425000 xx^xx-sil+h=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:20+1_1/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:8_1%1_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_8/K:1+1-8
+9425000 9725000 xx^sil-h+a=i/A:0+1+8/B:xx-xx_xx/C:20_1+1/D:12+xx_xx/E:xx_xx!xx_xx-xx/F:8_1#1_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+9725000 11025000 sil^h-a+i=cl/A:0+1+8/B:xx-xx_xx/C:20_1+1/D:12+xx_xx/E:xx_xx!xx_xx-xx/F:8_1#1_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+11025000 12625000 h^a-i+cl=t/A:1+2+7/B:xx-xx_xx/C:20_1+1/D:12+xx_xx/E:xx_xx!xx_xx-xx/F:8_1#1_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+12625000 13225000 a^i-cl+t=e/A:2+3+6/B:xx-xx_xx/C:20_1+1/D:12+xx_xx/E:xx_xx!xx_xx-xx/F:8_1#1_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+13225000 13525000 i^cl-t+e=i/A:3+4+5/B:20-1_1/C:12_xx+xx/D:01+7_2/E:xx_xx!xx_xx-xx/F:8_1#1_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+13525000 13925000 cl^t-e+i=i/A:3+4+5/B:20-1_1/C:12_xx+xx/D:01+7_2/E:xx_xx!xx_xx-xx/F:8_1#1_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+13925000 14325000 t^e-i+i=k/A:4+5+4/B:12-xx_xx/C:01_7+2/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:8_1#1_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+14325000 16225000 e^i-i+k=a/A:5+6+3/B:12-xx_xx/C:01_7+2/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:8_1#1_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+16225000 16825000 i^i-k+a=n/A:6+7+2/B:01-7_2/C:23_xx+xx/D:14+xx_xx/E:xx_xx!xx_xx-xx/F:8_1#1_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+16825000 17225000 i^k-a+n=a/A:6+7+2/B:01-7_2/C:23_xx+xx/D:14+xx_xx/E:xx_xx!xx_xx-xx/F:8_1#1_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+17225000 17925000 k^a-n+a=sil/A:7+8+1/B:23-xx_xx/C:14_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_1#1_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+17925000 18925000 a^n-a+sil=xx/A:7+8+1/B:23-xx_xx/C:14_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_1#1_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-8@1+1&1-1|1+8/J:xx_xx/K:1+1-8
+18925000 36625000 n^a-sil+xx=xx/A:xx+xx+xx/B:14-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_1!1_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:1_8/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:1+1-8

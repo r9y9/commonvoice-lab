@@ -5,10 +5,10 @@
 11825000 12225000 sh^I-t+a=k/A:0+3+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_7/G:2_2%0_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
 12225000 12825000 I^t-a+k=a/A:0+3+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_7/G:2_2%0_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
 12825000 13125000 t^a-k+a=r/A:1+4+2/B:02-xx_xx/C:13_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_7/G:2_2%0_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
-13125000 13525000 a^k-a+r=a/A:1+4+2/B:02-xx_xx/C:13_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_7/G:2_2%0_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
-13525000 14325000 k^a-r+a=y/A:2+5+1/B:02-xx_xx/C:13_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_7/G:2_2%0_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
-14325000 14825000 a^r-a+y=a/A:2+5+1/B:02-xx_xx/C:13_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_7/G:2_2%0_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
-14825000 16025000 r^a-y+a=r/A:-1+1+2/B:13-xx_xx/C:20_1+2/D:xx+xx_xx/E:5_3!0_xx-1/F:2_2#0_xx@2_1|6_2/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
+13125000 13425000 a^k-a+r=a/A:1+4+2/B:02-xx_xx/C:13_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_7/G:2_2%0_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
+13425000 14225000 k^a-r+a=y/A:2+5+1/B:02-xx_xx/C:13_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_7/G:2_2%0_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
+14225000 14725000 a^r-a+y=a/A:2+5+1/B:02-xx_xx/C:13_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_7/G:2_2%0_xx_1/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
+14725000 16025000 r^a-y+a=r/A:-1+1+2/B:13-xx_xx/C:20_1+2/D:xx+xx_xx/E:5_3!0_xx-1/F:2_2#0_xx@2_1|6_2/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
 16025000 16425000 a^y-a+r=u/A:-1+1+2/B:13-xx_xx/C:20_1+2/D:xx+xx_xx/E:5_3!0_xx-1/F:2_2#0_xx@2_1|6_2/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
 16425000 16925000 y^a-r+u=sil/A:0+2+1/B:13-xx_xx/C:20_1+2/D:xx+xx_xx/E:5_3!0_xx-1/F:2_2#0_xx@2_1|6_2/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7
 16925000 20425000 a^r-u+sil=xx/A:0+2+1/B:13-xx_xx/C:20_1+2/D:xx+xx_xx/E:5_3!0_xx-1/F:2_2#0_xx@2_1|6_2/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-7@1+1&1-2|1+7/J:xx_xx/K:1+2-7

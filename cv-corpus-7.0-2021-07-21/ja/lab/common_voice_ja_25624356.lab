@@ -3,11 +3,11 @@
 6324999 7025000 sil^ch-i+cl=ch/A:-2+1+5/B:xx-xx_xx/C:01_7+1/D:12+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_9/G:4_3%0_xx_1/H:xx_xx/I:2-9@1+1&1-2|1+9/J:xx_xx/K:1+2-9
 7025000 8125000 ch^i-cl+ch=a/A:-1+2+4/B:xx-xx_xx/C:01_7+1/D:12+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_9/G:4_3%0_xx_1/H:xx_xx/I:2-9@1+1&1-2|1+9/J:xx_xx/K:1+2-9
 8125000 9125000 i^cl-ch+a=k/A:0+3+3/B:xx-xx_xx/C:01_7+1/D:12+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_9/G:4_3%0_xx_1/H:xx_xx/I:2-9@1+1&1-2|1+9/J:xx_xx/K:1+2-9
-9125000 9625000 cl^ch-a+k=U/A:0+3+3/B:xx-xx_xx/C:01_7+1/D:12+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_9/G:4_3%0_xx_1/H:xx_xx/I:2-9@1+1&1-2|1+9/J:xx_xx/K:1+2-9
-9625000 10525000 ch^a-k+U=t/A:1+4+2/B:xx-xx_xx/C:01_7+1/D:12+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_9/G:4_3%0_xx_1/H:xx_xx/I:2-9@1+1&1-2|1+9/J:xx_xx/K:1+2-9
+9125000 9725000 cl^ch-a+k=U/A:0+3+3/B:xx-xx_xx/C:01_7+1/D:12+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_9/G:4_3%0_xx_1/H:xx_xx/I:2-9@1+1&1-2|1+9/J:xx_xx/K:1+2-9
+9725000 10525000 ch^a-k+U=t/A:1+4+2/B:xx-xx_xx/C:01_7+1/D:12+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_9/G:4_3%0_xx_1/H:xx_xx/I:2-9@1+1&1-2|1+9/J:xx_xx/K:1+2-9
 10525000 10825000 a^k-U+t=e/A:1+4+2/B:xx-xx_xx/C:01_7+1/D:12+xx_xx/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_9/G:4_3%0_xx_1/H:xx_xx/I:2-9@1+1&1-2|1+9/J:xx_xx/K:1+2-9
-10825000 11425000 k^U-t+e=k/A:2+5+1/B:01-7_1/C:12_xx+xx/D:01+7_2/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_9/G:4_3%0_xx_1/H:xx_xx/I:2-9@1+1&1-2|1+9/J:xx_xx/K:1+2-9
-11425000 12425000 U^t-e+k=a/A:2+5+1/B:01-7_1/C:12_xx+xx/D:01+7_2/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_9/G:4_3%0_xx_1/H:xx_xx/I:2-9@1+1&1-2|1+9/J:xx_xx/K:1+2-9
+10825000 11525000 k^U-t+e=k/A:2+5+1/B:01-7_1/C:12_xx+xx/D:01+7_2/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_9/G:4_3%0_xx_1/H:xx_xx/I:2-9@1+1&1-2|1+9/J:xx_xx/K:1+2-9
+11525000 12425000 U^t-e+k=a/A:2+5+1/B:01-7_1/C:12_xx+xx/D:01+7_2/E:xx_xx!xx_xx-xx/F:5_3#0_xx@1_2|1_9/G:4_3%0_xx_1/H:xx_xx/I:2-9@1+1&1-2|1+9/J:xx_xx/K:1+2-9
 12425000 13225000 t^e-k+a=w/A:-2+1+4/B:12-xx_xx/C:01_7+2/D:xx+xx_xx/E:5_3!0_xx-1/F:4_3#0_xx@2_1|6_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-9@1+1&1-2|1+9/J:xx_xx/K:1+2-9
 13225000 13525000 e^k-a+w=a/A:-2+1+4/B:12-xx_xx/C:01_7+2/D:xx+xx_xx/E:5_3!0_xx-1/F:4_3#0_xx@2_1|6_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-9@1+1&1-2|1+9/J:xx_xx/K:1+2-9
 13525000 15225000 k^a-w+a=i/A:-1+2+3/B:12-xx_xx/C:01_7+2/D:xx+xx_xx/E:5_3!0_xx-1/F:4_3#0_xx@2_1|6_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-9@1+1&1-2|1+9/J:xx_xx/K:1+2-9
